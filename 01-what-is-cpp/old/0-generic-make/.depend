@@ -1,0 +1,3 @@
+greeter.o: units/greeter.cpp units/greeter.hpp
+link_error.o: \
+  /mnt/d/Dropbox/ariel/cpp-5780/01-what-is-cpp/0-generic-make/link_error.cpp

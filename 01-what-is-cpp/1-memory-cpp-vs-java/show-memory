@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# How to free the buffers; from here: https://unix.stackexchange.com/q/87908/16569
+# free && sync && echo 3 | sudo tee /proc/sys/vm/drop_caches && free
+
+while :
+do
+	cat /proc/meminfo | grep MemAvailable
+	sleep 1   # wait for one second, and repeat
+done

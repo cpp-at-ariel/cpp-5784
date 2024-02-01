@@ -1,0 +1,11 @@
+#!/bin/bash
+
+printf "\\nDEBUG MODE:\n\n"
+clang++-9 --std=c++2a assert.cpp
+./a.out
+
+printf "\\nNO-DEBUG MODE:\n\n"
+clang++-9 --std=c++2a -DNDEBUG assert.cpp
+./a.out
+
+rm -f a.out

@@ -13,9 +13,8 @@
  (Linux), כולל סקריפטים (bash), גיט (git), הצגת קוד בפני הכיתה, עמידה בלוחות זמנים, והתמודדות עם תקלות ושינויים לא צפויים.
 
 לפרטים ראו:
- * [סילבוס](syllabus.pdf)
+ * [סילבוס, כולל כללי חישוב הציון בקורס](syllabus-10weeks.pdf)
  * [איך להתכונן לקורס](preparations.md)
- * [המטלות וכללי חישוב הציון בקורס](grade-rules.md)
  * [בחינות משנים קודמות](https://github.com/erelsgl-at-ariel/cpp-course)
 
 הגשת המטלות היא אישית. מותר להתייעץ ולקבל עזרה, אבל יש לדווח בכתב על כל עזרה שקיבלתם, בהתאם ל[תקנון היושר של המחלקה](https://www.ariel.ac.il/wp/cs/wp-content/uploads/sites/88/2020/08/Guidelines-for-Academic-Integrity.pdf).
